@@ -13,7 +13,7 @@
 # you will see them accessed via \{\{ site.title \}\}, \{\{ site.github_repo \}\}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via \{\{ site.myvariable \}\}.
-title: Stat 131a: Statistical Methods for Data Science
+title: "Stat 131a: Statistical Methods for Data Science"
 tagline: Course Overview
 description: This course teaches a broad range of statistical methods that are used to solve data problems. Topics include group comparisons and ANOVA, standard parametric statistical models, multivariate data visualization, multiple linear regression, logistic regression and classification, regression trees and random forests. An important focus of the course is on statistical computing and reproducible statistical analysis. The course and lab include hands-on experience in analyzing real world data from the social, life, and physical sciences. The R statistical language is used.
 

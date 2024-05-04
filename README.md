@@ -28,6 +28,12 @@ UC Berkeley
 This course teaches a broad range of statistical methods that are used to solve data problems. Topics include group comparisons and ANOVA, standard parametric statistical models, multivariate data visualization, multiple linear regression, logistic regression and classification, regression trees and random forests. An important focus of the course is on statistical computing and reproducible statistical analysis. The course and lab include hands-on experience in analyzing real world data from the social, life, and physical sciences. The R statistical language is used.
 
 
+## Logistics
+
+Three hours of lecture and two hours of laboratory per week. 
+
+Written final exam conducted during the scheduled final exam period.
+
 ## Prerequisites
 
 Statistics/Computer Science/Information C8 or Statistics 20; and Mathematics 1A, Mathematics 16A, or Mathematics 10A/10B. Strongly recommended corequisite: Statistics 33A or Statistics 133.

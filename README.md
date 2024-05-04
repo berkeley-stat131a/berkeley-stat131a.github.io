@@ -32,8 +32,6 @@ This course teaches a broad range of statistical methods that are used to solve 
 
 Three hours of lecture and two hours of laboratory per week. 
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 Statistics/Computer Science/Information C8 or Statistics 20; and Mathematics 1A, Mathematics 16A, or Mathematics 10A/10B. Strongly recommended corequisite: Statistics 33A or Statistics 133.

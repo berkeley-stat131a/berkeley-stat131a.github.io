@@ -1,37 +1,29 @@
 ---
 layout: home
-title: "Stat 131a: Statistical Methods for Data Science"
+title: "Stat 131a: Statistical Inferences for Social and Life Scientists"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: "Stat 131a: Statistical Methods for Data Science"
+  name: "Stat 131a: Statistical Inferences for Social and Life Scientists"
 ---
 
-# Stat 131a: Statistical Methods for Data Science
+# Stat 131a: Statistical Inferences for Social and Life Scientists
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
 
-## Offerings
-
-1. [Fall 2024](fall-2024)
-1. [Spring 2023](https://epurdom.github.io/Stat131A/)
-
-
-
 
 ## Overview
 
-This course teaches a broad range of statistical methods that are used to solve data problems. Topics include group comparisons and ANOVA, standard parametric statistical models, multivariate data visualization, multiple linear regression, logistic regression and classification, regression trees and random forests. An important focus of the course is on statistical computing and reproducible statistical analysis. The course and lab include hands-on experience in analyzing real world data from the social, life, and physical sciences. The R statistical language is used.
-
+Ideas for estimation and hypothesis testing basic to applications. Linear estimation and normal regression theory. 
 
 ## Logistics
 
-Three hours of lecture and two hours of laboratory per week. 
+Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.  Five hours of Lecture and  Four hours of Laboratory per week for 8 weeks.
 
 ## Prerequisites
 
-Statistics/Computer Science/Information C8 or Statistics 20; and Mathematics 1A, Mathematics 16A, or Mathematics 10A/10B. Strongly recommended corequisite: Statistics 33A or Statistics 133.
+One semester of calculus or consent of instructor. 
